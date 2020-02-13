@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8117a0-7b05-43da-9997-525e8a1ef44c" name="Default Changelist" comment="" />
+    <list default="true" id="2a8117a0-7b05-43da-9997-525e8a1ef44c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daum_ontime_issue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dounload2-5-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-6-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-6-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-6-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-7-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-7-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-7-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-8-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-8-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download2-8-2new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads2-7-1new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_class_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +45,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="download2-5-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.python_class_1">
+    <configuration name="daum_ontime_issue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="section2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,7 +67,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download2-5-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daum_ontime_issue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download2-8-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="section2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download2-8-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download2-8-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="section2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download2-8-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download2-8-2new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="section2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download2-8-2new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_class_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="section2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_class_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.download2-5-3" />
+        <item itemvalue="Python.python_class_1" />
+        <item itemvalue="Python.download2-8-2new" />
+        <item itemvalue="Python.download2-8-2" />
+        <item itemvalue="Python.download2-8-1" />
+        <item itemvalue="Python.daum_ontime_issue" />
       </list>
     </recent_temporary>
   </component>
@@ -67,7 +184,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580991130514</updated>
-      <workItem from="1580991131640" duration="947000" />
+      <workItem from="1580991131640" duration="1807000" />
+      <workItem from="1580993589821" duration="482000" />
+      <workItem from="1580994598743" duration="17000" />
+      <workItem from="1580995654246" duration="964000" />
+      <workItem from="1581043769115" duration="102000" />
+      <workItem from="1581090451234" duration="530000" />
+      <workItem from="1581148845002" duration="5959000" />
+      <workItem from="1581224357915" duration="13123000" />
+      <workItem from="1581311589040" duration="3028000" />
+      <workItem from="1581320934864" duration="2516000" />
+      <workItem from="1581507247215" duration="1066000" />
     </task>
     <servers />
   </component>
@@ -75,32 +202,66 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580991145835">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581043860173">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1580991145835" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1581043860173" />
     <state x="555" y="389" key="FileDocumentManager.FileCacheConflict" timestamp="1580991656323">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="555" y="389" key="FileDocumentManager.FileCacheConflict/0.23.1792.1017@0.23.1792.1017" timestamp="1580991656323" />
-    <state width="1358" height="263" key="GridCell.Tab.0.bottom" timestamp="1580991941291">
+    <state width="1153" height="378" key="GridCell.Tab.0.bottom" timestamp="1581508464167">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1580991941291" />
-    <state width="1358" height="263" key="GridCell.Tab.0.center" timestamp="1580991941291">
+    <state width="1153" height="378" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1581508464167" />
+    <state width="1153" height="378" key="GridCell.Tab.0.center" timestamp="1581508464166">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1580991941291" />
-    <state width="1358" height="263" key="GridCell.Tab.0.left" timestamp="1580991941291">
+    <state width="1153" height="378" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1581508464166" />
+    <state width="1153" height="378" key="GridCell.Tab.0.left" timestamp="1581508464166">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1580991941291" />
-    <state width="1358" height="263" key="GridCell.Tab.0.right" timestamp="1580991941291">
+    <state width="1153" height="378" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1581508464166" />
+    <state width="1153" height="378" key="GridCell.Tab.0.right" timestamp="1581508464166">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1580991941291" />
+    <state width="1153" height="378" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1581508464166" />
+    <state x="397" y="170" key="SettingsEditor" timestamp="1581090505485">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="397" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1581090505485" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1581043774101">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1581043774101" />
+    <state x="179" y="118" width="837" height="825" key="find.popup" timestamp="1581236050632">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="179" y="118" width="837" height="825" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1581236050632" />
+    <state x="545" y="254" width="700" height="530" key="recent.locations.popup" timestamp="1581148879182">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="545" y="254" width="700" height="530" key="recent.locations.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1581148879182" />
+    <state x="262" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1581154548202">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="262" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1581154548202" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/section2$download2_5_3.coverage" NAME="download2-5-3 Coverage Results" MODIFIED="1580991941282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$naver_ontime_issue.coverage" NAME="daum_ontime_issue Coverage Results" MODIFIED="1581237905117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_7_2.coverage" NAME="download2-7-2 Coverage Results" MODIFIED="1581232115633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$python_class_1.coverage" NAME="python_class_1 Coverage Results" MODIFIED="1581508172750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_6_1.coverage" NAME="download2-6-1 Coverage Results" MODIFIED="1581236357913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$downloads2_7_1new.coverage" NAME="downloads2-7-1new Coverage Results" MODIFIED="1581225812735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_5_3.coverage" NAME="download2-5-3 Coverage Results" MODIFIED="1581150714138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_7_3.coverage" NAME="download2-7-3 Coverage Results" MODIFIED="1581234031159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_8_1.coverage" NAME="download2-8-1 Coverage Results" MODIFIED="1581320918089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$dounload2_5_4.coverage" NAME="dounload2-5-4 Coverage Results" MODIFIED="1581151729841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_8_2new.coverage" NAME="download2-8-2new Coverage Results" MODIFIED="1581323350845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_6_2.coverage" NAME="download2-6-2 Coverage Results" MODIFIED="1581153963500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_8_2.coverage" NAME="download2-8-2 Coverage Results" MODIFIED="1581322447818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_7_1.coverage" NAME="download2-7-1 Coverage Results" MODIFIED="1581225666540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$daum_ontime_issue.coverage" NAME="daum_ontime_issue Coverage Results" MODIFIED="1581311727072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section2$download2_6_3.coverage" NAME="download2-6-3 Coverage Results" MODIFIED="1581154783814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
